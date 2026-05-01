@@ -1,4 +1,4 @@
-# 🩺 MediPredict Pro — AI Disease Prediction System
+# 🩺sffs MediPredict Pro — AI Disease Prediction System
 
 MediPredict Pro is a machine learning-powered healthcare analytics application that predicts probable diseases based on user-selected symptoms.
 
