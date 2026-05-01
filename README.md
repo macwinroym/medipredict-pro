@@ -1,21 +1,24 @@
 🩺 MediPredict Pro — AI Disease Prediction System
+🎓 Major Project 1
 
 🔗 Live App: https://medipredict-pro-ywd9o8j42t3dvxavzc7uyt.streamlit.app/
 
-MediPredict Pro is an AI-powered healthcare analytics application that predicts probable diseases based on user-selected symptoms using machine learning.
+MediPredict Pro is an AI-powered healthcare analytics application developed as Major Project 1 and part of an internship project, designed to predict probable diseases based on user-selected symptoms using machine learning techniques.
 
 🚀 Features
-🔍 Symptom-based disease prediction
+🔍 Symptom-based disease prediction engine
 🧠 Machine Learning model (Naive Bayes - Scikit-learn)
 📊 132 Symptoms • 41 Diseases • 4,920 Clinical Records
-⚡ Instant predictions with confidence scoring
-🎨 Clean and interactive UI (Streamlit)
-📚 Built-in disease catalog with top symptoms
+⚡ Real-time predictions with confidence scoring
+🎨 Interactive and modern UI (Streamlit-based)
+📚 Integrated disease catalog with key symptoms
+📈 Smart risk-level classification (Low / Moderate / High)
 🧠 How It Works
 User selects symptoms from the interface
-Symptoms are converted into a binary feature vector
-Trained ML model predicts the most probable disease
-Confidence score is calculated dynamically
+Input is transformed into a binary feature vector
+Trained ML model analyzes symptom patterns
+Most probable disease is predicted instantly
+Confidence score and risk level are displayed
 🛠 Tech Stack
 Python
 Streamlit
@@ -41,20 +44,20 @@ pip install -r requirements.txt
 streamlit run app.py
 🌐 Deployment
 
-This project is deployed using Streamlit Cloud and accessible via the live link above.
+This application is deployed using Streamlit Cloud and can be accessed via the live link above.
 
 ⚠️ Disclaimer
 
-This application is intended for educational and demonstration purposes only.
+This project is intended for educational and internship purposes only.
 It does not provide medical diagnosis and should not replace consultation with a qualified healthcare professional.
 
-🚀 Future Improvements
-Probability-based prediction visualization
-Doctor recommendation system
-User login & patient history tracking
-Full-stack upgrade (React + FastAPI)
-Mobile-friendly UI
+🌍 Future Improvements
+📊 Probability-based prediction visualization
+👨‍⚕️ Doctor recommendation system
+🗂 Patient history & user authentication
+🌐 Full-stack upgrade (React + FastAPI)
+📱 Mobile-responsive UI enhancements
 👨‍💻 Author
 
 Macwin Roy M
-Final Year Project — AI / Machine Learning
+Major Project 1 — Artificial Intelligence & Machine Learning
